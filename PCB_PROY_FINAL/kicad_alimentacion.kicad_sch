@@ -517,49 +517,44 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SamacSys_Parts:1717729"
+		(symbol "PCM_JLCPCB-Diodes:Schottky,B0520W"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "J"
-				(at 16.51 7.62 0)
+			(property "Reference" "D"
+				(at 2.032 0.834 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
+					(justify left)
 				)
 			)
-			(property "Value" "1717729"
-				(at 16.51 5.08 0)
+			(property "Value" "B0520W"
+				(at 2.032 -1.2122 0)
 				(effects
 					(font
-						(size 1.27 1.27)
+						(size 0.8 0.8)
 					)
-					(justify left top)
+					(justify left)
 				)
 			)
-			(property "Footprint" "1717729"
-				(at 16.51 -94.92 0)
+			(property "Footprint" "PCM_JLCPCB:D_SOD-123"
+				(at -1.778 0 90)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "http://www.phoenixcontact.com/de/produkte/1717729/pdf"
-				(at 16.51 -194.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "PCB terminal block, nominal current: 17.5 A, rated voltage (III/2): 630 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: GMKDS 1,5, pitch: 7.62 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard. The article can be aligned to create different nos. of po"
+			(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2308281443_hongjiacheng-B0520W_C7502707.pdf"
 				(at 0 0 0)
 				(effects
 					(font
@@ -568,92 +563,163 @@
 					(hide yes)
 				)
 			)
-			(property "Height" "13.95"
-				(at 16.51 -394.92 0)
+			(property "Description" "20V Independent Type 385mV@500mA 500mA SOD-123 Schottky Diodes ROHS"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Manufacturer_Name" "Phoenix Contact"
-				(at 16.51 -494.92 0)
+			(property "LCSC" "C7502707"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Manufacturer_Part_Number" "1717729"
-				(at 16.51 -594.92 0)
+			(property "Stock" "10374"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Mouser Part Number" "651-1717729"
-				(at 16.51 -694.92 0)
+			(property "Price" "0.020USD"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1717729?qs=GFUSqQMLmmnDNVVYKmEndA%3D%3D"
-				(at 16.51 -794.92 0)
+			(property "Process" "SMT"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Arrow Part Number" "1717729"
-				(at 16.51 -894.92 0)
+			(property "Minimum Qty" "15"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/1717729/phoenix-contact?utm_currency=USD&region=nac"
-				(at 16.51 -994.92 0)
+			(property "Attrition Qty" "4"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 					(hide yes)
 				)
 			)
-			(symbol "1717729_1_1"
-				(rectangle
-					(start 5.08 2.54)
-					(end 15.24 -5.08)
+			(property "Class" "Preferred Component"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Category" "Diodes,Schottky Barrier Diodes (SBD)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "hongjiacheng"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Part" "B0520W"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "D_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Schottky,B0520W_0_1"
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy 0 -1.27) (xy 1.27 1.27) (xy -1.27 1.27)
+					)
 					(stroke
 						(width 0.254)
 						(type default)
 					)
 					(fill
-						(type background)
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 -1.905) (xy 1.27 -1.905) (xy 1.27 -1.27) (xy -1.27 -1.27) (xy -1.27 -0.635) (xy -0.635 -0.635)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Schottky,B0520W_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
 					)
 				)
 				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "1"
+					(at 0 -3.81 90)
+					(length 3.81)
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -668,10 +734,248 @@
 						)
 					)
 				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "PCM_JLCPCB-Diodes:Schottky,SS220"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 2.032 0.834 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "SS220"
+				(at 2.032 -1.2122 0)
+				(effects
+					(font
+						(size 0.8 0.8)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "PCM_JLCPCB:D_SMA"
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2308281515_hongjiacheng-SS220_C7420361.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "200V Independent Type 950mV@2A 2A SMA(DO-214AC) Schottky Diodes ROHS"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C7420361"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Stock" "46143"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Price" "0.033USD"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Process" "SMT"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Minimum Qty" "20"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Attrition Qty" "8"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Class" "Preferred Component"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Category" "Diodes,Schottky Barrier Diodes (SBD)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "hongjiacheng"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Part" "SS220"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Forward Voltage (Vf@If)" "0.95V@2.0A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Reverse Voltage (Vr)" "200V"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Average Rectified Current (Io)" "2A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Diode Configuration" "Single"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Peak forward surge current" "50A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Reverse Leakage Current (Ir)" "0.05mA@200V"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "D_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Schottky,SS220_0_1"
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy 0 -1.27) (xy 1.27 1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 -1.905) (xy 1.27 -1.905) (xy 1.27 -1.27) (xy -1.27 -1.27) (xy -1.27 -0.635) (xy -0.635 -0.635)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Schottky,SS220_1_1"
 				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "2"
+					(at 0 3.81 270)
+					(length 3.81)
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -679,6 +983,24 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1593,52 +1915,36 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SamacSys_Parts:SS210-E3_52T"
+		(symbol "power:+3.3V"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
+				(offset 0)
 				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "D"
-				(at 12.7 8.89 0)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
-				)
-			)
-			(property "Value" "SS210-E3_52T"
-				(at 12.7 6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "DIONM5436X244N"
-				(at 12.7 -93.65 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.vishay.com/docs/88749/ss29.pdf"
-				(at 12.7 -193.65 0)
+			(property "Value" "+3.3V"
+				(at 0 3.556 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
-					(hide yes)
 				)
 			)
-			(property "Description" "Schottky Diodes & Rectifiers 100 Volt 1.5 Amp 75 Amp IFSM"
+			(property "Footprint" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -1647,83 +1953,40 @@
 					(hide yes)
 				)
 			)
-			(property "Height" "2.44"
-				(at 12.7 -393.65 0)
+			(property "Datasheet" ""
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Manufacturer_Name" "Vishay"
-				(at 12.7 -493.65 0)
+			(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Manufacturer_Part_Number" "SS210-E3/52T"
-				(at 12.7 -593.65 0)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Mouser Part Number" "625-SS210-E3"
-				(at 12.7 -693.65 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-General-Semiconductor/SS210-E3-52T?qs=x2jpVgRnAtNRwwCuhfjCIA%3D%3D"
-				(at 12.7 -793.65 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Part Number" "SS210-E3/52T"
-				(at 12.7 -893.65 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ss210-e352t/vishay?utm_currency=USD&region=nac"
-				(at 12.7 -993.65 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "SS210-E3_52T_1_1"
+			(symbol "+3.3V_0_1"
 				(polyline
 					(pts
-						(xy 5.08 0) (xy 7.62 0)
+						(xy -0.762 1.27) (xy 0 2.54)
 					)
 					(stroke
-						(width 0.254)
+						(width 0)
 						(type default)
 					)
 					(fill
@@ -1732,10 +1995,10 @@
 				)
 				(polyline
 					(pts
-						(xy 6.604 -1.524) (xy 6.604 -2.54)
+						(xy 0 2.54) (xy 0.762 1.27)
 					)
 					(stroke
-						(width 0.254)
+						(width 0)
 						(type default)
 					)
 					(fill
@@ -1744,80 +2007,22 @@
 				)
 				(polyline
 					(pts
-						(xy 7.62 2.54) (xy 7.62 -2.54)
+						(xy 0 0) (xy 0 2.54)
 					)
 					(stroke
-						(width 0.254)
+						(width 0)
 						(type default)
 					)
 					(fill
 						(type none)
 					)
 				)
-				(polyline
-					(pts
-						(xy 7.62 2.54) (xy 8.636 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 0) (xy 12.7 2.54) (xy 12.7 -2.54) (xy 7.62 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -2.54) (xy 6.604 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 8.636 1.524) (xy 8.636 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 12.7 0) (xy 15.24 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 2.54 0 0)
-					(length 2.54)
-					(name "K"
+			)
+			(symbol "+3.3V_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1825,24 +2030,6 @@
 						)
 					)
 					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 17.78 0 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2081,56 +2268,50 @@
 		)
 	)
 	(junction
-		(at 181.61 91.44)
+		(at 157.48 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "2c8182ed-f1de-4112-9351-311afe561324")
+		(uuid "0da4e8bb-6cfa-4e95-9a4d-28aec7e88311")
 	)
 	(junction
-		(at 160.02 91.44)
+		(at 187.96 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "31c98383-9424-4f51-a7be-f33b3ff1a09d")
+		(uuid "252859a8-f4ca-4d26-9454-eb797c566939")
 	)
 	(junction
-		(at 168.91 91.44)
+		(at 113.03 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "563b64d2-9281-4477-b625-5a227954cde7")
+		(uuid "596f692f-a534-4d2b-a03d-abc32be3e23e")
 	)
 	(junction
-		(at 92.71 62.23)
+		(at 184.15 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5ea3678b-55c5-4dde-ba7a-fc8810fecb90")
+		(uuid "5e1a6302-b8ab-4f8c-8c34-1986d14110b4")
 	)
 	(junction
-		(at 133.35 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "791dbbff-b06c-4702-9b3a-3ab41ab14565")
-	)
-	(junction
-		(at 82.55 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7f1e19e7-a856-4e5e-bc7c-6c401d104368")
-	)
-	(junction
-		(at 97.79 93.98)
+		(at 116.84 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ecde3040-f158-475e-a276-e294a9362e09")
 	)
 	(junction
-		(at 160.02 102.87)
+		(at 190.5 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f2ac9ad5-6a8c-4c0c-9f41-789fc8397bee")
+		(uuid "f05c77b7-7a8a-45aa-afef-2434f54d15eb")
+	)
+	(junction
+		(at 200.66 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f6cc7dbb-29eb-4822-9948-ac3a70b3e943")
 	)
 	(wire
 		(pts
-			(xy 97.79 93.98) (xy 97.79 96.52)
+			(xy 116.84 85.09) (xy 116.84 90.17)
 		)
 		(stroke
 			(width 0)
@@ -2140,37 +2321,27 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 109.22) (xy 97.79 113.03)
+			(xy 190.5 82.55) (xy 200.66 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0fce3c91-1786-4e0d-b3d5-c87f38726858")
+		(uuid "12ba99d3-7b55-4c6a-810a-9584a32782fa")
 	)
 	(wire
 		(pts
-			(xy 92.71 62.23) (xy 95.25 62.23)
+			(xy 187.96 96.52) (xy 190.5 96.52)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "169aa0b8-036a-4b6c-a0be-38243751a982")
+		(uuid "1d502ec2-ad58-4e6e-8fd8-4e60b282f2cd")
 	)
 	(wire
 		(pts
-			(xy 73.66 50.8) (xy 76.2 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b753b98-fb65-4fe5-8d0a-c77db8bc9bd7")
-	)
-	(wire
-		(pts
-			(xy 97.79 91.44) (xy 97.79 93.98)
+			(xy 116.84 82.55) (xy 116.84 85.09)
 		)
 		(stroke
 			(width 0)
@@ -2180,17 +2351,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 62.23) (xy 92.71 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1f0007bf-0cc3-41fe-81cd-d4eb634e0cfa")
-	)
-	(wire
-		(pts
-			(xy 181.61 91.44) (xy 181.61 95.25)
+			(xy 200.66 82.55) (xy 200.66 86.36)
 		)
 		(stroke
 			(width 0)
@@ -2200,27 +2361,17 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 50.8) (xy 73.66 54.61)
+			(xy 184.15 82.55) (xy 184.15 85.09)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2f03ee7c-1021-4ea7-b8d9-5bcf8e1eeec6")
+		(uuid "33999fc1-6b3f-4b5d-a14d-49f542c4c932")
 	)
 	(wire
 		(pts
-			(xy 77.47 86.36) (xy 83.82 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2fb98d14-ca34-4468-b5c4-0734e552f341")
-	)
-	(wire
-		(pts
-			(xy 100.33 78.74) (xy 160.02 78.74)
+			(xy 119.38 69.85) (xy 184.15 69.85)
 		)
 		(stroke
 			(width 0)
@@ -2230,7 +2381,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 62.23) (xy 66.04 62.23)
+			(xy 83.82 90.17) (xy 99.06 90.17)
 		)
 		(stroke
 			(width 0)
@@ -2240,17 +2391,47 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 62.23) (xy 92.71 62.23)
+			(xy 157.48 82.55) (xy 161.29 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "34da8438-9067-4af1-ac59-bd78b6a3ad54")
+		(uuid "36fd53c8-5634-4ec3-be56-65f25bbcd62d")
 	)
 	(wire
 		(pts
-			(xy 66.04 62.23) (xy 66.04 60.96)
+			(xy 190.5 96.52) (xy 190.5 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "404d754f-6569-4867-a579-b16aa936e4a3")
+	)
+	(wire
+		(pts
+			(xy 157.48 80.01) (xy 157.48 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4250939c-4799-44d9-b4cd-407731a3cb59")
+	)
+	(wire
+		(pts
+			(xy 106.68 78.74) (xy 113.03 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "440b2cbd-d9c2-42b6-a6bd-2feaa642cbe2")
+	)
+	(wire
+		(pts
+			(xy 83.82 90.17) (xy 83.82 86.36)
 		)
 		(stroke
 			(width 0)
@@ -2260,57 +2441,37 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 73.66) (xy 87.63 83.82)
+			(xy 184.15 82.55) (xy 190.5 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4fff6479-48e8-4224-89a4-60c35f4bd936")
+		(uuid "4c0e7134-4a0f-478b-9906-47ecadd6cd7e")
 	)
 	(wire
 		(pts
-			(xy 160.02 91.44) (xy 160.02 95.25)
+			(xy 106.68 90.17) (xy 113.03 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5aebe756-4235-47fe-86d4-017efb436c8a")
+		(uuid "4cab2dca-0760-4a36-b071-ab8cf55ce636")
 	)
 	(wire
 		(pts
-			(xy 92.71 93.98) (xy 97.79 93.98)
+			(xy 184.15 92.71) (xy 184.15 96.52)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "61b1ee24-b63a-4b73-bb22-23deb1b51567")
+		(uuid "79589010-0927-4061-ab81-94239aa4872c")
 	)
 	(wire
 		(pts
-			(xy 82.55 83.82) (xy 87.63 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7714efbe-8ae7-4e6c-b722-b6ce792ddef9")
-	)
-	(wire
-		(pts
-			(xy 125.73 83.82) (xy 133.35 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7be2339a-fa8d-4aa9-a224-42bc9c820898")
-	)
-	(wire
-		(pts
-			(xy 64.77 54.61) (xy 73.66 54.61)
+			(xy 83.82 78.74) (xy 99.06 78.74)
 		)
 		(stroke
 			(width 0)
@@ -2320,17 +2481,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 91.44) (xy 168.91 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8090badf-2cf1-4c5f-980a-c9f0a659016a")
-	)
-	(wire
-		(pts
-			(xy 125.73 91.44) (xy 133.35 91.44)
+			(xy 144.78 82.55) (xy 157.48 82.55)
 		)
 		(stroke
 			(width 0)
@@ -2340,17 +2491,27 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 86.36) (xy 83.82 95.25)
+			(xy 113.03 85.09) (xy 116.84 85.09)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "819fb415-acb3-4af7-bb5c-11b9bbb94369")
+		(uuid "89b9e2b5-82e6-4d07-b11b-d08bc4debdad")
 	)
 	(wire
 		(pts
-			(xy 160.02 78.74) (xy 160.02 91.44)
+			(xy 113.03 90.17) (xy 113.03 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a6db136-e928-4261-9a8d-3efa847159ea")
+	)
+	(wire
+		(pts
+			(xy 184.15 69.85) (xy 184.15 82.55)
 		)
 		(stroke
 			(width 0)
@@ -2360,7 +2521,27 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 93.98) (xy 125.73 100.33)
+			(xy 113.03 78.74) (xy 113.03 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d6e9910-997e-4667-a1c1-8e0f702d97d0")
+	)
+	(wire
+		(pts
+			(xy 184.15 96.52) (xy 187.96 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "902e73da-7bb0-4d58-bcf0-ee98e46fe4d8")
+	)
+	(wire
+		(pts
+			(xy 144.78 85.09) (xy 144.78 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2370,7 +2551,17 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 95.25) (xy 168.91 91.44)
+			(xy 116.84 106.68) (xy 116.84 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1177e51-f2a5-4c72-9e2f-9c708e5e986b")
+	)
+	(wire
+		(pts
+			(xy 190.5 85.09) (xy 190.5 82.55)
 		)
 		(stroke
 			(width 0)
@@ -2380,7 +2571,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 48.26) (xy 64.77 54.61)
+			(xy 83.82 76.2) (xy 83.82 78.74)
 		)
 		(stroke
 			(width 0)
@@ -2390,27 +2581,17 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 88.9) (xy 125.73 83.82)
+			(xy 148.59 80.01) (xy 144.78 80.01)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b235b82d-a1a8-42a9-9d07-25ad74ab98de")
+		(uuid "b3a844b5-cbea-4ac1-93ac-9f5e3c8bf07e")
 	)
 	(wire
 		(pts
-			(xy 77.47 83.82) (xy 82.55 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b92f220b-8280-4d79-9b2a-4f11a8e7bfca")
-	)
-	(wire
-		(pts
-			(xy 100.33 91.44) (xy 97.79 91.44)
+			(xy 119.38 82.55) (xy 116.84 82.55)
 		)
 		(stroke
 			(width 0)
@@ -2420,57 +2601,27 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 91.44) (xy 181.61 91.44)
+			(xy 157.48 80.01) (xy 156.21 80.01)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ce189522-38bc-4773-bf80-05a4c9028c32")
+		(uuid "c77e2ab4-e376-4491-af97-0b6afaf00d92")
 	)
 	(wire
 		(pts
-			(xy 181.61 91.44) (xy 185.42 91.44)
+			(xy 184.15 82.55) (xy 181.61 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cf69fdad-52f6-41e0-9186-074598a35122")
+		(uuid "e2c147ee-7c47-4d1b-8b53-586416fd79e8")
 	)
 	(wire
 		(pts
-			(xy 82.55 78.74) (xy 82.55 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dc466fb8-fcc4-49bd-b18f-0d6e71decd44")
-	)
-	(wire
-		(pts
-			(xy 160.02 102.87) (xy 168.91 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e52e33ae-8ad1-4680-84a0-dc4cd9abc27b")
-	)
-	(wire
-		(pts
-			(xy 133.35 91.44) (xy 139.7 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ec42e1bb-d365-40f2-8b76-1a7dd743fe45")
-	)
-	(wire
-		(pts
-			(xy 100.33 88.9) (xy 100.33 78.74)
+			(xy 119.38 80.01) (xy 119.38 69.85)
 		)
 		(stroke
 			(width 0)
@@ -2480,27 +2631,17 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 62.23) (xy 95.25 50.8)
+			(xy 200.66 71.12) (xy 200.66 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f287dbfd-7f00-4afb-aa4e-0491ed6dee5a")
+		(uuid "ee240951-9731-41a7-ab47-81d0c58531bd")
 	)
 	(wire
 		(pts
-			(xy 95.25 50.8) (xy 91.44 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f5a31861-fedf-4e3b-997a-9c142c9fc140")
-	)
-	(wire
-		(pts
-			(xy 181.61 110.49) (xy 181.61 113.03)
+			(xy 200.66 101.6) (xy 200.66 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2510,7 +2651,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 93.98) (xy 100.33 93.98)
+			(xy 116.84 85.09) (xy 119.38 85.09)
 		)
 		(stroke
 			(width 0)
@@ -2520,7 +2661,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 102.87) (xy 160.02 107.95)
+			(xy 187.96 96.52) (xy 187.96 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2528,42 +2669,9 @@
 		)
 		(uuid "fd96f798-396a-4cb8-b6b8-73280fe851f2")
 	)
-	(hierarchical_label "V3.3"
-		(shape output)
-		(at 185.42 91.44 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "172b48aa-e9c3-43af-b207-4a754f554fdc")
-	)
-	(hierarchical_label "24VOUT"
-		(shape output)
-		(at 82.55 78.74 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "64dacef6-1685-4d95-930b-239d10226c29")
-	)
-	(hierarchical_label "VUSB"
-		(shape input)
-		(at 66.04 60.96 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "83fe6b1f-025c-401f-90b2-2536b27fbee3")
-	)
 	(symbol
 		(lib_id "PCM_JLCPCB-Capacitors:0603,100nF")
-		(at 133.35 87.63 0)
+		(at 152.4 80.01 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2572,25 +2680,23 @@
 		(fields_autoplaced yes)
 		(uuid "061e3596-920c-4c49-b7ae-3afb37c87f84")
 		(property "Reference" "C11"
-			(at 135.89 85.0899 0)
+			(at 152.4 71.12 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "100nF"
-			(at 135.89 87.63 0)
+			(at 152.4 73.66 90)
 			(effects
 				(font
 					(size 0.8 0.8)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "PCM_JLCPCB:C_0603"
-			(at 131.572 87.63 90)
+			(at 152.4 81.788 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2599,7 +2705,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf"
-			(at 133.35 87.63 0)
+			(at 152.4 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2608,7 +2714,7 @@
 			)
 		)
 		(property "Description" "50V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
-			(at 133.35 87.63 0)
+			(at 152.4 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2616,8 +2722,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
-			(at 133.35 87.63 0)
+		(property "LCSC" " C2392268"
+			(at 152.4 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2626,7 +2732,7 @@
 			)
 		)
 		(property "Stock" "66445262"
-			(at 133.35 87.63 0)
+			(at 152.4 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2635,7 +2741,7 @@
 			)
 		)
 		(property "Price" "0.006USD"
-			(at 133.35 87.63 0)
+			(at 152.4 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2644,7 +2750,7 @@
 			)
 		)
 		(property "Process" "SMT"
-			(at 133.35 87.63 0)
+			(at 152.4 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2653,7 +2759,7 @@
 			)
 		)
 		(property "Minimum Qty" "20"
-			(at 133.35 87.63 0)
+			(at 152.4 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2662,7 +2768,7 @@
 			)
 		)
 		(property "Attrition Qty" "10"
-			(at 133.35 87.63 0)
+			(at 152.4 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2671,7 +2777,7 @@
 			)
 		)
 		(property "Class" "Basic Component"
-			(at 133.35 87.63 0)
+			(at 152.4 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2680,7 +2786,7 @@
 			)
 		)
 		(property "Category" "Capacitors,Multilayer Ceramic Capacitors MLCC - SMD/SMT"
-			(at 133.35 87.63 0)
+			(at 152.4 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2689,7 +2795,7 @@
 			)
 		)
 		(property "Manufacturer" "YAGEO"
-			(at 133.35 87.63 0)
+			(at 152.4 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2698,7 +2804,7 @@
 			)
 		)
 		(property "Part" "CC0603KRX7R9BB104"
-			(at 133.35 87.63 0)
+			(at 152.4 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2707,16 +2813,15 @@
 			)
 		)
 		(property "Voltage Rated" "50V"
-			(at 135.89 90.17 0)
+			(at 152.4 76.2 90)
 			(effects
 				(font
 					(size 0.8 0.8)
 				)
-				(justify left)
 			)
 		)
 		(property "Tolerance" "±10%"
-			(at 133.35 87.63 0)
+			(at 152.4 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2725,7 +2830,7 @@
 			)
 		)
 		(property "Capacitance" "100nF"
-			(at 133.35 87.63 0)
+			(at 152.4 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2734,7 +2839,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "X7R"
-			(at 133.35 87.63 0)
+			(at 152.4 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2759,7 +2864,7 @@
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:CL31A106KBHNNNE")
-		(at 97.79 109.22 90)
+		(at 116.84 102.87 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2768,7 +2873,7 @@
 		(fields_autoplaced yes)
 		(uuid "089703b7-a3c2-4200-a495-0cd25864c33d")
 		(property "Reference" "C13"
-			(at 101.6 101.5999 90)
+			(at 120.65 95.2499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2777,7 +2882,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 101.6 104.1399 90)
+			(at 120.65 97.7899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2786,7 +2891,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:CAPC3216X180N"
-			(at 193.98 100.33 0)
+			(at 213.03 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2796,7 +2901,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/08745f6325ae1679773301b11fb0567f.pdf"
-			(at 293.98 100.33 0)
+			(at 313.03 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2806,7 +2911,7 @@
 			)
 		)
 		(property "Description" "Samsung Multi-layer Ceramic Capacitor, 1206, 10uF, 50V"
-			(at 97.79 109.22 0)
+			(at 116.84 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2815,7 +2920,7 @@
 			)
 		)
 		(property "Height" "1.8"
-			(at 493.98 100.33 0)
+			(at 513.03 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2825,7 +2930,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "SAMSUNG"
-			(at 593.98 100.33 0)
+			(at 613.03 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2835,7 +2940,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "CL31A106KBHNNNE"
-			(at 693.98 100.33 0)
+			(at 713.03 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2845,7 +2950,7 @@
 			)
 		)
 		(property "Mouser Part Number" "187-CL31A106KBHNNNE"
-			(at 793.98 100.33 0)
+			(at 813.03 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2855,7 +2960,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL31A106KBHNNNE?qs=X6jEic%2FHinBsSMnC%2FFnmbg%3D%3D"
-			(at 893.98 100.33 0)
+			(at 913.03 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2865,7 +2970,7 @@
 			)
 		)
 		(property "Arrow Part Number" "CL31A106KBHNNNE"
-			(at 993.98 100.33 0)
+			(at 1013.03 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2875,12 +2980,21 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/cl31a106kbhnnne/samsung-electro-mechanics?region=nac"
-			(at 1093.98 100.33 0)
+			(at 1113.03 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "JLC PART#" "C2803389"
+			(at 116.84 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -2900,74 +3014,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5VD")
-		(at 87.63 73.66 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1445137e-9a2b-413f-a5b4-71c4bbaabc1e")
-		(property "Reference" "#PWR018"
-			(at 87.63 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+24VDC"
-			(at 87.63 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 87.63 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 87.63 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5VD\""
-			(at 87.63 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "66ea2098-450a-45c9-9665-e8e1c0381202")
-		)
-		(instances
-			(project ""
-				(path "/51ffaafe-e53d-4b00-a505-7a6ca9d3b89d/c800e635-9e2c-4be8-ab14-25a46907ecc4"
-					(reference "#PWR018")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
-		(at 160.02 107.95 0)
+		(at 187.96 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2976,7 +3024,7 @@
 		(fields_autoplaced yes)
 		(uuid "152f66cd-a98d-4b8c-ace6-ee7f035b6f0e")
 		(property "Reference" "#PWR029"
-			(at 160.02 114.3 0)
+			(at 187.96 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2985,7 +3033,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 160.02 113.03 0)
+			(at 187.96 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2993,7 +3041,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 160.02 107.95 0)
+			(at 187.96 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3002,7 +3050,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 160.02 107.95 0)
+			(at 187.96 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3011,7 +3059,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 160.02 107.95 0)
+			(at 187.96 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3033,7 +3081,7 @@
 	)
 	(symbol
 		(lib_id "SamacSys_Parts:AP63203WU-7")
-		(at 100.33 88.9 0)
+		(at 119.38 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3042,7 +3090,7 @@
 		(fields_autoplaced yes)
 		(uuid "193fb342-0f38-47c4-aa74-73617c3b511a")
 		(property "Reference" "IC3"
-			(at 113.03 81.28 0)
+			(at 132.08 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3050,7 +3098,7 @@
 			)
 		)
 		(property "Value" "AP63203WU-7"
-			(at 113.03 83.82 0)
+			(at 132.08 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3058,7 +3106,7 @@
 			)
 		)
 		(property "Footprint" "AP63203WU7"
-			(at 121.92 183.82 0)
+			(at 140.97 174.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3068,7 +3116,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AP63200-AP63201-AP63203-AP63205.pdf"
-			(at 121.92 283.82 0)
+			(at 140.97 274.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3078,7 +3126,7 @@
 			)
 		)
 		(property "Description" "Switching Voltage Regulators DCDC Conv HV Buck TSOT26 T&R 3K"
-			(at 100.33 88.9 0)
+			(at 119.38 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3087,7 +3135,7 @@
 			)
 		)
 		(property "Height" "1"
-			(at 121.92 483.82 0)
+			(at 140.97 474.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3097,7 +3145,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Diodes Incorporated"
-			(at 121.92 583.82 0)
+			(at 140.97 574.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3107,7 +3155,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "AP63203WU-7"
-			(at 121.92 683.82 0)
+			(at 140.97 674.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3117,7 +3165,7 @@
 			)
 		)
 		(property "Mouser Part Number" "621-AP63203WU-7"
-			(at 121.92 783.82 0)
+			(at 140.97 774.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3127,7 +3175,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AP63203WU-7?qs=u16ybLDytRZ1JqxbuLkMJw%3D%3D"
-			(at 121.92 883.82 0)
+			(at 140.97 874.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3137,7 +3185,7 @@
 			)
 		)
 		(property "Arrow Part Number" "AP63203WU-7"
-			(at 121.92 983.82 0)
+			(at 140.97 974.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3147,12 +3195,21 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ap63203wu-7/diodes-incorporated?utm_currency=USD&region=europe"
-			(at 121.92 1083.82 0)
+			(at 140.97 1074.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_PART#" "C780769"
+			(at 119.38 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -3184,17 +3241,17 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 125.73 100.33 0)
+		(lib_id "power:+3.3V")
+		(at 200.66 71.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "475cf952-1701-41e4-85a0-9e890bf6cc28")
-		(property "Reference" "#PWR027"
-			(at 125.73 106.68 0)
+		(uuid "1e2a0e85-2ab2-4a73-aa67-78122dbe18b6")
+		(property "Reference" "#PWR041"
+			(at 200.66 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3202,8 +3259,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 125.73 105.41 0)
+		(property "Value" "+3.3V"
+			(at 200.66 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3211,7 +3268,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 125.73 100.33 0)
+			(at 200.66 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3220,7 +3277,73 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 125.73 100.33 0)
+			(at 200.66 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 200.66 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "359c3016-f75f-490e-a135-a7f48e9e2383")
+		)
+		(instances
+			(project ""
+				(path "/51ffaafe-e53d-4b00-a505-7a6ca9d3b89d/c800e635-9e2c-4be8-ab14-25a46907ecc4"
+					(reference "#PWR041")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 144.78 104.14 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "475cf952-1701-41e4-85a0-9e890bf6cc28")
+		(property "Reference" "#PWR027"
+			(at 144.78 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 144.78 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 144.78 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 144.78 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3229,7 +3352,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 125.73 100.33 0)
+			(at 144.78 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3251,7 +3374,7 @@
 	)
 	(symbol
 		(lib_id "power:+5VD")
-		(at 64.77 48.26 0)
+		(at 83.82 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3260,7 +3383,7 @@
 		(fields_autoplaced yes)
 		(uuid "5101cf7f-243c-4042-b1ce-4d70e3752d7e")
 		(property "Reference" "#PWR021"
-			(at 64.77 52.07 0)
+			(at 83.82 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3269,7 +3392,7 @@
 			)
 		)
 		(property "Value" "+24VDC"
-			(at 64.77 43.18 0)
+			(at 83.82 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3277,7 +3400,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 64.77 48.26 0)
+			(at 83.82 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3286,7 +3409,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 64.77 48.26 0)
+			(at 83.82 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3295,7 +3418,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5VD\""
-			(at 64.77 48.26 0)
+			(at 83.82 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3316,148 +3439,8 @@
 		)
 	)
 	(symbol
-		(lib_id "SamacSys_Parts:1717729")
-		(at 77.47 86.36 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5d51abfe-129b-49d6-9b4d-8806f5767fec")
-		(property "Reference" "FUENTE"
-			(at 67.31 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1717729"
-			(at 67.31 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "1717729"
-			(at 60.96 -8.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.phoenixcontact.com/de/produkte/1717729/pdf"
-			(at 60.96 -108.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "PCB terminal block, nominal current: 17.5 A, rated voltage (III/2): 630 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: GMKDS 1,5, pitch: 7.62 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard. The article can be aligned to create different nos. of po"
-			(at 77.47 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "13.95"
-			(at 60.96 -308.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Phoenix Contact"
-			(at 60.96 -408.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "1717729"
-			(at 60.96 -508.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "651-1717729"
-			(at 60.96 -608.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1717729?qs=GFUSqQMLmmnDNVVYKmEndA%3D%3D"
-			(at 60.96 -708.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" "1717729"
-			(at 60.96 -808.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/1717729/phoenix-contact?utm_currency=USD&region=nac"
-			(at 60.96 -908.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "0cbc595a-13b7-4ac7-9c0f-976eb8ea2086")
-		)
-		(pin "1"
-			(uuid "d13144f2-8b5c-4a0e-935a-bc1dfd52a4fe")
-		)
-		(instances
-			(project ""
-				(path "/51ffaafe-e53d-4b00-a505-7a6ca9d3b89d/c800e635-9e2c-4be8-ab14-25a46907ecc4"
-					(reference "FUENTE")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "SamacSys_Parts:SMF3.3")
-		(at 181.61 95.25 270)
+		(at 200.66 86.36 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3466,7 +3449,7 @@
 		(fields_autoplaced yes)
 		(uuid "714243f7-1126-4433-9cec-1329ed3ca523")
 		(property "Reference" "D3"
-			(at 185.42 101.0919 90)
+			(at 204.47 92.2019 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3475,7 +3458,7 @@
 			)
 		)
 		(property "Value" "SMF3.3"
-			(at 185.42 103.6319 90)
+			(at 204.47 94.7419 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3484,7 +3467,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:SOD3718X108N"
-			(at 87.96 105.41 0)
+			(at 107.01 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3494,7 +3477,7 @@
 			)
 		)
 		(property "Datasheet" "https://componentsearchengine.com/Datasheets/2/SMF3.3.pdf"
-			(at -12.04 105.41 0)
+			(at 7.01 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3504,7 +3487,7 @@
 			)
 		)
 		(property "Description" "ESD Suppressors / TVS Diodes 200W 3.3V 5% Uni-directional"
-			(at 181.61 95.25 0)
+			(at 200.66 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3513,7 +3496,7 @@
 			)
 		)
 		(property "Height" "1.08"
-			(at -212.04 105.41 0)
+			(at -192.99 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3523,7 +3506,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "LITTELFUSE"
-			(at -312.04 105.41 0)
+			(at -292.99 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3533,7 +3516,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SMF3.3"
-			(at -412.04 105.41 0)
+			(at -392.99 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3543,7 +3526,7 @@
 			)
 		)
 		(property "Mouser Part Number" "576-SMF3.3"
-			(at -512.04 105.41 0)
+			(at -492.99 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3553,7 +3536,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Littelfuse/SMF3.3?qs=5LChGqRbrjutbyo%2F8EojOg%3D%3D"
-			(at -612.04 105.41 0)
+			(at -592.99 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3563,7 +3546,7 @@
 			)
 		)
 		(property "Arrow Part Number" "SMF3.3"
-			(at -712.04 105.41 0)
+			(at -692.99 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3573,12 +3556,21 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/smf3.3/littelfuse?region=nac"
-			(at -812.04 105.41 0)
+			(at -792.99 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C283866"
+			(at 200.66 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -3598,53 +3590,33 @@
 		)
 	)
 	(symbol
-		(lib_id "SamacSys_Parts:SS210-E3_52T")
-		(at 93.98 62.23 180)
+		(lib_id "PCM_JLCPCB-Diodes:Schottky,SS220")
+		(at 102.87 78.74 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "80826346-aebd-411d-93c1-aa8639262a68")
+		(uuid "850289d2-7661-4e77-8b8f-83c9005fee3c")
 		(property "Reference" "D2"
-			(at 83.82 54.61 0)
+			(at 103.1875 72.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "SS210-E3_52T"
-			(at 83.82 57.15 0)
+		(property "Value" "SS220"
+			(at 103.1875 74.93 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.8 0.8)
 				)
 			)
 		)
-		(property "Footprint" "DIONM5436X244N"
-			(at 81.28 -31.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/88749/ss29.pdf"
-			(at 81.28 -131.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "Schottky Diodes & Rectifiers 100 Volt 1.5 Amp 75 Amp IFSM"
-			(at 93.98 62.23 0)
+		(property "Footprint" "PCM_JLCPCB:D_SMA"
+			(at 102.87 80.518 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3652,84 +3624,176 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "2.44"
-			(at 81.28 -331.42 0)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2308281515_hongjiacheng-SS220_C7420361.pdf"
+			(at 102.87 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "Vishay"
-			(at 81.28 -431.42 0)
+		(property "Description" "200V Independent Type 950mV@2A 2A SMA(DO-214AC) Schottky Diodes ROHS"
+			(at 102.87 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "SS210-E3/52T"
-			(at 81.28 -531.42 0)
+		(property "LCSC" "C7420361"
+			(at 102.87 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "625-SS210-E3"
-			(at 81.28 -631.42 0)
+		(property "Stock" "46143"
+			(at 102.87 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-General-Semiconductor/SS210-E3-52T?qs=x2jpVgRnAtNRwwCuhfjCIA%3D%3D"
-			(at 81.28 -731.42 0)
+		(property "Price" "0.033USD"
+			(at 102.87 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Arrow Part Number" "SS210-E3/52T"
-			(at 81.28 -831.42 0)
+		(property "Process" "SMT"
+			(at 102.87 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ss210-e352t/vishay?utm_currency=USD&region=nac"
-			(at 81.28 -931.42 0)
+		(property "Minimum Qty" "20"
+			(at 102.87 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(pin "2"
-			(uuid "3d20316b-4f88-4823-bdac-78b69fd4d105")
+		(property "Attrition Qty" "8"
+			(at 102.87 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Class" "Preferred Component"
+			(at 102.87 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Diodes,Schottky Barrier Diodes (SBD)"
+			(at 102.87 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "hongjiacheng"
+			(at 102.87 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part" "SS220"
+			(at 102.87 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Forward Voltage (Vf@If)" "0.95V@2.0A"
+			(at 102.87 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Voltage (Vr)" "200V"
+			(at 102.87 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Average Rectified Current (Io)" "2A"
+			(at 102.87 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Diode Configuration" "Single"
+			(at 102.87 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Peak forward surge current" "50A"
+			(at 102.87 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" "0.05mA@200V"
+			(at 102.87 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
 		)
 		(pin "1"
-			(uuid "3ab8e4d0-746b-4523-b28a-9e74af09c62f")
+			(uuid "91042047-73d5-4c44-aeaf-ccdbfe4e0bd2")
+		)
+		(pin "2"
+			(uuid "f554f057-9fd5-4eda-85cc-7b867cea49f2")
 		)
 		(instances
-			(project "PCB_PROY_FINAL"
+			(project ""
 				(path "/51ffaafe-e53d-4b00-a505-7a6ca9d3b89d/c800e635-9e2c-4be8-ab14-25a46907ecc4"
 					(reference "D2")
 					(unit 1)
@@ -3739,7 +3803,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 181.61 113.03 0)
+		(at 200.66 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3748,7 +3812,7 @@
 		(fields_autoplaced yes)
 		(uuid "a05c6788-02c5-45bf-97ef-5071fc0ebdcf")
 		(property "Reference" "#PWR030"
-			(at 181.61 119.38 0)
+			(at 200.66 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3757,7 +3821,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 181.61 118.11 0)
+			(at 200.66 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3765,7 +3829,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 181.61 113.03 0)
+			(at 200.66 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3774,7 +3838,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 181.61 113.03 0)
+			(at 200.66 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3783,7 +3847,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 181.61 113.03 0)
+			(at 200.66 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3804,53 +3868,17 @@
 		)
 	)
 	(symbol
-		(lib_id "SamacSys_Parts:SS210-E3_52T")
-		(at 93.98 50.8 180)
+		(lib_id "power:+5VD")
+		(at 83.82 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "a3e90132-d0d9-4905-803a-1fd35d12c2a0")
-		(property "Reference" "D1"
-			(at 83.82 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SS210-E3_52T"
-			(at 83.82 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "DIONM5436X244N"
-			(at 81.28 -42.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/88749/ss29.pdf"
-			(at 81.28 -142.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "Schottky Diodes & Rectifiers 100 Volt 1.5 Amp 75 Amp IFSM"
-			(at 93.98 50.8 0)
+		(uuid "b260c37c-9a0d-4a19-817e-b36612838a37")
+		(property "Reference" "#PWR026"
+			(at 83.82 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3858,112 +3886,8 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "2.44"
-			(at 81.28 -342.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Vishay"
-			(at 81.28 -442.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "SS210-E3/52T"
-			(at 81.28 -542.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "625-SS210-E3"
-			(at 81.28 -642.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-General-Semiconductor/SS210-E3-52T?qs=x2jpVgRnAtNRwwCuhfjCIA%3D%3D"
-			(at 81.28 -742.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" "SS210-E3/52T"
-			(at 81.28 -842.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ss210-e352t/vishay?utm_currency=USD&region=nac"
-			(at 81.28 -942.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "fdd7a11d-0df9-444d-b79d-4a413c4e9168")
-		)
-		(pin "1"
-			(uuid "7fb15401-925b-40f2-b676-33f17aa49b37")
-		)
-		(instances
-			(project "PCB_PROY_FINAL"
-				(path "/51ffaafe-e53d-4b00-a505-7a6ca9d3b89d/c800e635-9e2c-4be8-ab14-25a46907ecc4"
-					(reference "D1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 83.82 95.25 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d1324580-8d3c-4647-881d-afa43a7f0100")
-		(property "Reference" "#PWR024"
-			(at 83.82 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 83.82 100.33 0)
+		(property "Value" "+5VD"
+			(at 83.82 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3971,7 +3895,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 83.82 95.25 0)
+			(at 83.82 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3980,7 +3904,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 83.82 95.25 0)
+			(at 83.82 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3988,8 +3912,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 83.82 95.25 0)
+		(property "Description" "Power symbol creates a global label with name \"+5VD\""
+			(at 83.82 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3998,12 +3922,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "b42e3ecc-a8a2-4942-b7f9-4a0b4030d70c")
+			(uuid "4709e0e8-22e9-44b6-a921-48a48a6ab3d6")
 		)
 		(instances
-			(project "PCB_PROY_FINAL"
+			(project ""
 				(path "/51ffaafe-e53d-4b00-a505-7a6ca9d3b89d/c800e635-9e2c-4be8-ab14-25a46907ecc4"
-					(reference "#PWR024")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -4011,7 +3935,7 @@
 	)
 	(symbol
 		(lib_id "PCM_JLCPCB-Capacitors:1206,22uF")
-		(at 168.91 99.06 0)
+		(at 190.5 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4020,7 +3944,7 @@
 		(fields_autoplaced yes)
 		(uuid "d574eb16-d627-4b30-9c18-6dd0840d1796")
 		(property "Reference" "C14"
-			(at 171.45 96.5199 0)
+			(at 193.04 86.3599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4029,7 +3953,7 @@
 			)
 		)
 		(property "Value" "22uF"
-			(at 171.45 99.06 0)
+			(at 193.04 88.9 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -4038,7 +3962,7 @@
 			)
 		)
 		(property "Footprint" "PCM_JLCPCB:C_1206"
-			(at 167.132 99.06 90)
+			(at 188.722 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4047,7 +3971,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1810221121_Samsung-Electro-Mechanics-CL31A226KPHNNNE_C5672.pdf"
-			(at 168.91 99.06 0)
+			(at 190.5 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4056,7 +3980,7 @@
 			)
 		)
 		(property "Description" "10V 22uF X5R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
-			(at 168.91 99.06 0)
+			(at 190.5 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4064,8 +3988,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C5672"
-			(at 168.91 99.06 0)
+		(property "LCSC" " C2392268"
+			(at 190.5 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4074,7 +3998,7 @@
 			)
 		)
 		(property "Stock" "236671"
-			(at 168.91 99.06 0)
+			(at 190.5 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4083,7 +4007,7 @@
 			)
 		)
 		(property "Price" "0.037USD"
-			(at 168.91 99.06 0)
+			(at 190.5 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4092,7 +4016,7 @@
 			)
 		)
 		(property "Process" "SMT"
-			(at 168.91 99.06 0)
+			(at 190.5 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4101,7 +4025,7 @@
 			)
 		)
 		(property "Minimum Qty" "20"
-			(at 168.91 99.06 0)
+			(at 190.5 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4110,7 +4034,7 @@
 			)
 		)
 		(property "Attrition Qty" "8"
-			(at 168.91 99.06 0)
+			(at 190.5 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4119,7 +4043,7 @@
 			)
 		)
 		(property "Class" "Preferred Component"
-			(at 168.91 99.06 0)
+			(at 190.5 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4128,7 +4052,7 @@
 			)
 		)
 		(property "Category" "Capacitors,Multilayer Ceramic Capacitors MLCC - SMD/SMT"
-			(at 168.91 99.06 0)
+			(at 190.5 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4137,7 +4061,7 @@
 			)
 		)
 		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 168.91 99.06 0)
+			(at 190.5 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4146,7 +4070,7 @@
 			)
 		)
 		(property "Part" "CL31A226KPHNNNE"
-			(at 168.91 99.06 0)
+			(at 190.5 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4155,7 +4079,7 @@
 			)
 		)
 		(property "Voltage Rated" "10V"
-			(at 171.45 101.6 0)
+			(at 193.04 91.44 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -4164,7 +4088,7 @@
 			)
 		)
 		(property "Tolerance" "±10%"
-			(at 168.91 99.06 0)
+			(at 190.5 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4173,7 +4097,7 @@
 			)
 		)
 		(property "Capacitance" "22uF"
-			(at 168.91 99.06 0)
+			(at 190.5 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4182,7 +4106,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "X5R"
-			(at 168.91 99.06 0)
+			(at 190.5 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4206,8 +4130,166 @@
 		)
 	)
 	(symbol
+		(lib_id "PCM_JLCPCB-Diodes:Schottky,B0520W")
+		(at 102.87 90.17 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f4519355-4146-43a2-a642-bebcf8cd8f5a")
+		(property "Reference" "D6"
+			(at 103.1875 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "B0520W"
+			(at 103.1875 86.36 90)
+			(effects
+				(font
+					(size 0.8 0.8)
+				)
+			)
+		)
+		(property "Footprint" "PCM_JLCPCB:D_SOD-123"
+			(at 102.87 91.948 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2308281443_hongjiacheng-B0520W_C7502707.pdf"
+			(at 102.87 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "20V Independent Type 385mV@500mA 500mA SOD-123 Schottky Diodes ROHS"
+			(at 102.87 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7502707"
+			(at 102.87 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stock" "10374"
+			(at 102.87 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "0.020USD"
+			(at 102.87 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Process" "SMT"
+			(at 102.87 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Minimum Qty" "15"
+			(at 102.87 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Attrition Qty" "4"
+			(at 102.87 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Class" "Preferred Component"
+			(at 102.87 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Category" "Diodes,Schottky Barrier Diodes (SBD)"
+			(at 102.87 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "hongjiacheng"
+			(at 102.87 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part" "B0520W"
+			(at 102.87 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6c65dbd2-fb57-47de-abc6-7bc17c661695")
+		)
+		(pin "2"
+			(uuid "9163b38f-d3a6-4c4e-a300-bdb22349e189")
+		)
+		(instances
+			(project "PCB_PROY_FINAL"
+				(path "/51ffaafe-e53d-4b00-a505-7a6ca9d3b89d/c800e635-9e2c-4be8-ab14-25a46907ecc4"
+					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "SamacSys_Parts:NLV25T-3R9J-PF")
-		(at 139.7 91.44 0)
+		(at 161.29 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4216,7 +4298,7 @@
 		(fields_autoplaced yes)
 		(uuid "f741db0b-ecf7-41d8-afcf-0f7e66d7c9d3")
 		(property "Reference" "L1"
-			(at 149.86 85.09 0)
+			(at 171.45 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4224,7 +4306,7 @@
 			)
 		)
 		(property "Value" "NLV25T-3R9J-PF"
-			(at 149.86 87.63 0)
+			(at 171.45 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4232,7 +4314,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:INDM2520X190N"
-			(at 156.21 187.63 0)
+			(at 177.8 178.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4242,7 +4324,7 @@
 			)
 		)
 		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_standard_nlv25-pf_en.pdf"
-			(at 156.21 287.63 0)
+			(at 177.8 278.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4252,7 +4334,7 @@
 			)
 		)
 		(property "Description" "TDK Type 1008 Wire-wound SMD Inductor 3.9 H +/-5% Wire-Wound 180mA Idc Q:30"
-			(at 139.7 91.44 0)
+			(at 161.29 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4261,7 +4343,7 @@
 			)
 		)
 		(property "Height" "1.9"
-			(at 156.21 487.63 0)
+			(at 177.8 478.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4271,7 +4353,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "TDK"
-			(at 156.21 587.63 0)
+			(at 177.8 578.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4281,7 +4363,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "NLV25T-3R9J-PF"
-			(at 156.21 687.63 0)
+			(at 177.8 678.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4291,7 +4373,7 @@
 			)
 		)
 		(property "Mouser Part Number" "810-NLV25T-3R9J"
-			(at 156.21 787.63 0)
+			(at 177.8 778.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4301,7 +4383,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/NLV25T-3R9J-PF?qs=3POhL7GGTOiEGzlPar2X3g%3D%3D"
-			(at 156.21 887.63 0)
+			(at 177.8 878.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4311,7 +4393,7 @@
 			)
 		)
 		(property "Arrow Part Number" "NLV25T-3R9J-PF"
-			(at 156.21 987.63 0)
+			(at 177.8 978.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4321,12 +4403,21 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/nlv25t-3r9j-pf/tdk?region=nac"
-			(at 156.21 1087.63 0)
+			(at 177.8 1078.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C250157"
+			(at 161.29 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -4347,7 +4438,7 @@
 	)
 	(symbol
 		(lib_id "PCM_JLCPCB-Capacitors:1206,22uF")
-		(at 160.02 99.06 0)
+		(at 184.15 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4356,7 +4447,7 @@
 		(fields_autoplaced yes)
 		(uuid "ff0c7391-8263-4d69-be99-b93a8d161a28")
 		(property "Reference" "C12"
-			(at 162.56 96.5199 0)
+			(at 186.69 86.3599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4365,7 +4456,7 @@
 			)
 		)
 		(property "Value" "22uF"
-			(at 162.56 99.06 0)
+			(at 186.69 88.9 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -4374,7 +4465,7 @@
 			)
 		)
 		(property "Footprint" "PCM_JLCPCB:C_1206"
-			(at 158.242 99.06 90)
+			(at 182.372 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4383,7 +4474,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1810221121_Samsung-Electro-Mechanics-CL31A226KPHNNNE_C5672.pdf"
-			(at 160.02 99.06 0)
+			(at 184.15 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4392,7 +4483,7 @@
 			)
 		)
 		(property "Description" "10V 22uF X5R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
-			(at 160.02 99.06 0)
+			(at 184.15 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4400,8 +4491,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C5672"
-			(at 160.02 99.06 0)
+		(property "LCSC" " C2392268"
+			(at 184.15 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4410,7 +4501,7 @@
 			)
 		)
 		(property "Stock" "236671"
-			(at 160.02 99.06 0)
+			(at 184.15 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4419,7 +4510,7 @@
 			)
 		)
 		(property "Price" "0.037USD"
-			(at 160.02 99.06 0)
+			(at 184.15 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4428,7 +4519,7 @@
 			)
 		)
 		(property "Process" "SMT"
-			(at 160.02 99.06 0)
+			(at 184.15 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4437,7 +4528,7 @@
 			)
 		)
 		(property "Minimum Qty" "20"
-			(at 160.02 99.06 0)
+			(at 184.15 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4446,7 +4537,7 @@
 			)
 		)
 		(property "Attrition Qty" "8"
-			(at 160.02 99.06 0)
+			(at 184.15 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4455,7 +4546,7 @@
 			)
 		)
 		(property "Class" "Preferred Component"
-			(at 160.02 99.06 0)
+			(at 184.15 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4464,7 +4555,7 @@
 			)
 		)
 		(property "Category" "Capacitors,Multilayer Ceramic Capacitors MLCC - SMD/SMT"
-			(at 160.02 99.06 0)
+			(at 184.15 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4473,7 +4564,7 @@
 			)
 		)
 		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 160.02 99.06 0)
+			(at 184.15 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4482,7 +4573,7 @@
 			)
 		)
 		(property "Part" "CL31A226KPHNNNE"
-			(at 160.02 99.06 0)
+			(at 184.15 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4491,7 +4582,7 @@
 			)
 		)
 		(property "Voltage Rated" "10V"
-			(at 162.56 101.6 0)
+			(at 186.69 91.44 0)
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -4500,7 +4591,7 @@
 			)
 		)
 		(property "Tolerance" "±10%"
-			(at 160.02 99.06 0)
+			(at 184.15 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4509,7 +4600,7 @@
 			)
 		)
 		(property "Capacitance" "22uF"
-			(at 160.02 99.06 0)
+			(at 184.15 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4518,7 +4609,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "X5R"
-			(at 160.02 99.06 0)
+			(at 184.15 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4543,7 +4634,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 97.79 113.03 0)
+		(at 116.84 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4552,7 +4643,7 @@
 		(fields_autoplaced yes)
 		(uuid "ff6d62e3-5d2e-4277-aedb-b1d412ce6dd7")
 		(property "Reference" "#PWR025"
-			(at 97.79 119.38 0)
+			(at 116.84 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4561,7 +4652,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 97.79 118.11 0)
+			(at 116.84 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4569,7 +4660,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 97.79 113.03 0)
+			(at 116.84 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4578,7 +4669,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 97.79 113.03 0)
+			(at 116.84 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4587,7 +4678,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 97.79 113.03 0)
+			(at 116.84 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
