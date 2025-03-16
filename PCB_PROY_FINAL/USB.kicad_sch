@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "0bd098c3-4be9-456f-898f-fe2487771d8f")
+	(uuid "8900fc9b-84ef-46b6-83de-95f297e5562c")
 	(paper "A4")
 	(lib_symbols
 		(symbol "PCM_JLCPCB-Capacitors:0603,100nF"
